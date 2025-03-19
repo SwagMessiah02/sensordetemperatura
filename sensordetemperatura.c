@@ -79,7 +79,6 @@ void setup() {
     ssd1306_clear(&display);
 }
 
-
 // Função que exibe a temperatura em graus Celcius no display OLED 
 void exibir_celsius(float temperatura) {
     char buffer[4];
