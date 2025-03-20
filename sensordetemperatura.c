@@ -19,7 +19,6 @@ char* gcvt(double x, int ndigit, char *buf);
 
 // Variáveis globais 
 volatile void (*ptr_exibir)(float temperatura);
-volatile bool botao_pressionado = false;
 volatile uint contador = -1;
 absolute_time_t ultima_iterrupcao;
 ssd1306_t display;
