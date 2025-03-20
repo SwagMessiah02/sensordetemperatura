@@ -7,6 +7,5 @@ O código do programa foi escrito em linguagem C, utilizando a SDK fornecida pel
 
 ## <p align="center"> Melhorias </p> 
 
-O programa foi atualizado para exibir a temperatura interna do microcontrolador RP2040 em outras escalas térmicas - como Farenheit e Kelvin. Agora a troca de escala pode ser realizada ao pressionar o botão A
-da placa BitDog Lab. 
+O programa foi atualizado para exibir a temperatura interna do microcontrolador RP2040 em outras escalas térmicas - como Farenheit e Kelvin. Agora a troca de escala pode ser realizada ao pressionar o botão A da placa BitDog Lab. Essa alteração permite a melhor compreenção do comportamento térmico do microcontrolador ao permitir a visualização da temperatura em outras escalas termométricas.
 
