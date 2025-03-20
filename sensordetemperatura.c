@@ -15,9 +15,6 @@
 // Cabeçalho para as funções
 void setup();
 void exibir_celsius(float temperatura);
-void exibir_farenheit(float temperatura);
-void exibir_kelvin(float temperatura);
-void trocar_escala(uint gpio, uint32_t events);
 char* gcvt(double x, int ndigit, char *buf);
 
 // Variáveis globais 
